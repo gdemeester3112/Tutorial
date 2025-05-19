@@ -1,9 +1,8 @@
 ---
 title: My Super Awesome Tutorial
-date: 1970-01-01
+date: 2025-05-19
 authors:
-  - name: John Doe
-  - name: Mary Jane
+  - name: Ghsialin Demeester
 ---
 
 ![relevant graphic or workshop logo](image/path)
