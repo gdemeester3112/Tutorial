@@ -10,23 +10,35 @@ authors:
 ## Introduction
 
 Write a short section on what the tutorial is aiming to accomplish.
+In this tutorial I want to teach people how to setup website that hosts a leaderboard and show it being updated with a LED flashing on an ESP32.
 What is the motivation behind the tutorial?
+I need to make a leaderboard for the fitness we are desigining so I can put what I learn into this tutorial
 What do you want readers to gain from the tutorial?
+I want it to be easy for readers to set up a leaderboard on a website.
 
 ### Learning Objectives
 
 - Bullet list of skills/concepts to be covered
+- Web development(dealing with result requests)
+- ESP32, how to update leaderboard
+- LED flashing when updating leaderboard
+- 
 
 Any additional notes from the developers can be included here.
 
 ### Background Information
 
+This leaderboard can keep track of the scores of you and your friends. 
+We need to understand website requests and wifi connection to understand clearly this tutorial.
 Describe your topic here. What does it do? Why do you use it?
 Are there other similar things to use? What are the pros and cons?
 Explain important concepts that are necessary to understand.
 Include (and cite if needed) any visuals that will help the audience understand.
 
 ## Getting Started
+
+You will need VSCode, a computer to host the website and an ESP32 with an LED.
+
 
 For any software prerequisites, write a simple excerpt on each
 technology the participant will be expecting to download and install.
@@ -65,6 +77,7 @@ List any tools and equipment you need here.
 ### Introduction
 
 Briefly introduce what  you are teaching in this section.
+Ghislain Demeester
 
 ### Objective
 
